@@ -1,1 +1,1 @@
-1. 
+1. The pros of agile development are the deadlines set by the sprint method which promotes completing work more efficiently and the ability to adjust and adapt during the sprint. The cons of agile development are less continuity when it comes to completing big projects, and potentially bogging down developers' schedules with meetings and updates for sprints.
